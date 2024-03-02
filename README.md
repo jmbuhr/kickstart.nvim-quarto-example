@@ -1,5 +1,11 @@
 # kickstart.nvim
 
+... with additional tools for data science with quarto!
+Learn to set it up here: https://www.youtube.com/watch?v=hp7FFr9oM1k
+
+[![image](https://github.com/jmbuhr/kickstart.nvim-quarto-example/assets/17450586/6d397e01-fce4-442b-ba02-d1974622adc3)](https://www.youtube.com/watch?v=hp7FFr9oM1k)
+
+
 ## Introduction
 
 A starting point for Neovim that is:
